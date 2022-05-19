@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImagePro</string>
+    <string name="username">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Authentification</string>
+    <string name="signuphere">Inscription</string>
+    <string name="signup">Inscription</string>
+    <string name="fullname">FullName</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Vous avez deja un compte? <u>Connexion</u> </string>
+    <string name="rectangle">Rectangle</string>
+    <string name="polygone">Polygone</string>
+    <string name="cercle">Cercle</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="a_propos">A propos</string>
+    <string name="connexion">Connexion</string>
+</resources>
